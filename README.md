@@ -4,5 +4,5 @@ to jest pierwsza linijka
 
 to jest druga
 
-ddadsdsads
-ghfhgfdtydfxgfhcx
+kolejna linijka
+hgcfhgcftyjfck
